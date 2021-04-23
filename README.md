@@ -1,3 +1,3 @@
 # track-my-sleep-app
 
-Download the zip. Run the app on android studio
+you can download the repository as a Zip file, unzip it, and open it in Android Studio.
